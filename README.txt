@@ -4,4 +4,4 @@ You can also just edit/make scala files in notepad. Take a look at the examples 
 
 The .csv files can be imported in 0CC via Module> Detune settings...> Import
 
-This requires Lua 5 and Love2d to work.
+! This uses love2d (https://love2d.org/) for the gui and file handling !
