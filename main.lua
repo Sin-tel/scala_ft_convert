@@ -10,9 +10,6 @@ main.lua has all the gui stuff, convert.lua does the conversion.
 
 require("convert")
 
-
-
-
 msg = false
 
 io.stdout:setvbuf("no")
